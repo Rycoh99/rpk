@@ -2,11 +2,11 @@
 <p>
 </p>
 
-> this program is just one of the many other alternative for taskkill
+> this program is just one of the many other alternatives for taskkill
 
 ## info
 
-👥 **rpk (rycoh's process killer)**
+📚 **rpk (rycoh's process killer)**
 
 * version -> 1.1
 * usage -> "rpk processName"
